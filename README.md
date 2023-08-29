@@ -13,7 +13,7 @@
 <h1>Connect with Me</h1>
   Let's connect and learn from each other! You can reach me via:
   <ul>
- <li>[Linkedin] (https://www.linkedin.com/in/adam-dyrda-585b001ba)</li>
+ <li>[Linkedin](https://www.linkedin.com/in/adam-dyrda-585b001ba)</li>
  <li>DISCORD: `thegr0ke`</li> 
  <li>e-mail: `a.dyrda102@gmail.com`</li> 
   </ul>

@@ -9,7 +9,7 @@
   - React Native
 <h1>Connect with Me</h1>
   Let's connect and learn from each other! You can reach me via:
-  - [Linkedin]([url](https://www.linkedin.com/in/adam-dyrda-585b001ba))
+  - [Linkedin](https://www.linkedin.com/in/adam-dyrda-585b001ba)
   - DISCORD: `thegr0ke`
   - e-mail: `a.dyrda102@gmail.com`
   

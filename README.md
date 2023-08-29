@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Adam</h1>
-<h3>I'm currently pursuing my degree in IT Studies at University of Economics in Katowice.</h3>
+<h1 align='center'>Hi 👋, I'm Adam</h1>
+<h3 align='center'>I'm currently pursuing my degree in IT Studies at University of Economics in Katowice.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdyrda&label=Profile%20views&color=0e75b6&style=flat" alt="adamdyrda" /> </p>
 

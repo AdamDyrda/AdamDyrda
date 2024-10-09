@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I'm currently pursuing my degree in IT Studies at University of Economics in Katowice.</h3>
+<h3 align="center">I'm currently pursuing my degree in Informatics at Silesian University of Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdyrda&label=Profile%20views&color=0e75b6&style=flat" alt="adamdyrda" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **a.dyrda102@gmail.com**
 
